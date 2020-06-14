@@ -8,7 +8,7 @@ C++
 
 ## input
 
-I have provided 2 input files named input1 and input2. You can use that input file and also you can use your own input.
+I have provided a input file named input1. You can use that input file and also you can use your own input.
 
 
 ## Prerequisites:
@@ -90,4 +90,5 @@ else {
 Update current with minimum and return 0;
 
 }
+
  
